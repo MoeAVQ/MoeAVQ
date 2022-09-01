@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MoeAVQ
-- 👀 I’m interested in AI, Blockchain and network
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m @MoeAVQ, Architect @ Avaloq 
+- 👀 I’m interested in System and software design, AI, Blockchain and network
 - 💞️ I’m looking to collaborate on intresting opensource projects 
 
 
